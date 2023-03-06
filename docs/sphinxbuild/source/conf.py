@@ -26,5 +26,7 @@ exclude_patterns = []
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
-
+# -- numfig
+numfig = True
+math_numfig = True
 numfig_secnum_depth = 30
