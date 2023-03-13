@@ -1,17 +1,16 @@
-:tocdepth: 2
+:tocdepth: 3
 
 ..  Modeunjisik
 ..  =======
 
-
 Modeunjisik is a personal wiki.
 
-Depth Test
+Modeunjisik
 ------------
 
 .. toctree::
 
-   menu1
+   open_source
    menu2
    menu3
    menu4
