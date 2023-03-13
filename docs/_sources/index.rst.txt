@@ -1,8 +1,7 @@
-:tocdepth: 3
+:tocdepth: 5
 
 ..  Modeunjisik
 ..  =======
-
 
 Modeunjisik is a personal wiki.
 

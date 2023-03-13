@@ -1,11 +1,11 @@
 ===============
-Open Source
+Python
 ===============
 
-Open Source
+Python Open Source
 
 .. toctree::
    :maxdepth: 5
 
-   open_source/python
+   python/moviepy
    
