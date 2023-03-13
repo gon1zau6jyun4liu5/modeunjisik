@@ -6,4 +6,4 @@ Menu2 depth0 page.
 
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
