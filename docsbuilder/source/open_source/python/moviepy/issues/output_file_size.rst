@@ -58,5 +58,5 @@ ____
 
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
 

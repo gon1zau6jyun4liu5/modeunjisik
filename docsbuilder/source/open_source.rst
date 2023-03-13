@@ -5,7 +5,7 @@ Open Source
 Open Source
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
 
    open_source/python
    

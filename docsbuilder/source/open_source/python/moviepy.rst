@@ -5,6 +5,6 @@ MoviePy
 MoviePy
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
 
    moviepy/issues

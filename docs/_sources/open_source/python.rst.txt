@@ -5,7 +5,7 @@ Python
 Python Open Source
 
 .. toctree::
-   :maxdepth: 5
+   :maxdepth: 3
 
    python/moviepy
    
